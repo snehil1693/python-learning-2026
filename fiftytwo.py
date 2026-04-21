@@ -2,6 +2,7 @@
 # space + stars
 # spaces = n - i
 # stars = 2*i - 1
+# it will give decreasing spaces and increasing odd number of stars
 
 num = int(input("Enter a number: "))
 
